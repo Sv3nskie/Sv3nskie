@@ -1,10 +1,17 @@
-# Geoffrey Kasuba Schali - Web3 Enthusiast && Quantum Enthusiast
+# Sven Esser - Web3, MERN stack and Unity Enthusiast.
 
-Greetings! 👋🏾
+Hello,
 
-I go by the name Kasuba97 and I hail from Zambia. My passion lies in the dynamic realm of web3 technologies, where I find myself deeply engrossed in the world of decentralized systems, cryptocurrencies, and cutting-edge advancements. As an ardent learner, I continually immerse myself in the intricacies of various programming languages, frameworks such as React, and even explore the quantum realms through tools like Qiskit. 
+I'm Sv3n, a highly experienced full stack MERN developer and JavaScript enthusiast. I have a broad skill set, with expertise in many popular JS libraries like web3.js, D3js, jQuery, lightweight-charts, Google API and many more.
 
-My journey into the world of development has been a captivating one, particularly given my background without any formal computer science education. During my high school years, my fascination with gaming fueled a curious inquiry into the mechanics behind it all. Over the past few years, I've embarked on a relentless pursuit of knowledge, embracing every available avenue including online courses and enriching books, all of which now constitute a cherished chapter in my story. 😊
+With years of experience in building web, iOS and Android applications, I specialize in creating high-quality, end-to-end solutions that are tailored to meet your specific needs. I work with the MERN stack (MongoDB, Express, React, NodeJS) and have extensive experience in building desktop applications with ElectronJS for Windows, macOS and Linux.
+
+In addition to my proficiency in traditional web and app development, I also have a deep knowledge of web3 and Solidity EVM-based smart contracts. This allows me to deliver cutting-edge blockchain-based solutions that are both secure and efficient.
+
+With a strong design background and an eye for detail, I'm dedicated to creating sleek and intuitive user interfaces that provide a seamless user experience. Whether you need a custom application for your business, a mobile app for your startup, or a blockchain-based solution for your enterprise, I have the skills and expertise to help you achieve your goals.
 
 ## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv3nskie&layout=compact)
+
+## Stats
+![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sv3nskie&show_icons=true&theme=jolly)
