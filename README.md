@@ -11,7 +11,7 @@ In addition to my proficiency in traditional web and app development, I also hav
 With a strong design background and an eye for detail, I'm dedicated to creating sleek and intuitive user interfaces that provide a seamless user experience. Whether you need a custom application for your business, a mobile app for your startup, or a blockchain-based solution for your enterprise, I have the skills and expertise to help you achieve your goals.
 
 ## Skills
-<code>
+
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
@@ -29,7 +29,7 @@ With a strong design background and an eye for detail, I'm dedicated to creating
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://mikevpeeren.nl/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext_logo.79d7b4bd.png&w=128&q=75" alt="Next.js" width="21px" height="21px"></a>
 <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
 <a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="21px" height="21px"></a>
@@ -61,6 +61,6 @@ With a strong design background and an eye for detail, I'm dedicated to creating
 <a href="https://isocpp.org/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C++" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
-</code>
+
 ## Stats
 ![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sv3nskie&show_icons=true&theme=jolly)
