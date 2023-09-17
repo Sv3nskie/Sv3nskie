@@ -29,7 +29,7 @@ With a strong design background and an eye for detail, I'm dedicated to creating
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img style="background-color:white" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
 <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
 <a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="21px" height="21px"></a>
