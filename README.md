@@ -63,16 +63,16 @@ With a strong design background and an eye for detail, I'm dedicated to creating
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 
 ## Stats
-![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sv3nskie&show_icons=true&theme=jolly)
-
 <p align="center">
+  ![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sv3nskie&show_icons=true&theme=jolly)
+  
   <a href="https://github.com/cartoonweber/github-readme-streak-stats">
     <img title="� Get streak stats for your profile at git.io/streak-stats" alt="cartoonweber"
       src="https://github-readme-streak-stats.herokuapp.com/?user=Sv3nskie&theme=monokai-metallian&hide_border=true" />
   </a>
-</p>
 
- <a href="https://github.com/cartoonweber/github-readme-stats">
+  <a href="https://github.com/cartoonweber/github-readme-stats">
     <img height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv3nskie&layout=compact&theme=vision-friendly-dark" />
   </a>
+</p>
