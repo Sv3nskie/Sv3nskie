@@ -69,7 +69,7 @@ With a strong design background and an eye for detail, I'm dedicated to creating
   <img title="� Get streak stats for your profile at git.io/streak-stats" alt="cartoonweber"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Sv3nskie&theme=monokai-metallian&hide_border=true" />
 </a>
-
+<br>
 <a href="https://github.com/cartoonweber/github-readme-stats">
   <img height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv3nskie&layout=compact&theme=vision-friendly-dark" />
