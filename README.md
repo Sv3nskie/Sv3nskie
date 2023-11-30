@@ -64,6 +64,7 @@ Let's brainstorm together and bring your vision to life. Contact me today to get
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 
+<div style="text-align: center; margin: auto">
 ## Stats
 ![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sv3nskie&show_icons=true&theme=jolly)
 
@@ -76,4 +77,4 @@ Let's brainstorm together and bring your vision to life. Contact me today to get
   <img height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv3nskie&layout=compact&theme=vision-friendly-dark" />
 </a>
-
+</div>
