@@ -6,7 +6,7 @@ My main stack is **MERN** (MongoDB, Express, React, Node.js), along with **TypeS
 
 Before landing on this stack I worked with Flutter/Dart, Python, Go, and C# (Unity). I also come from a multimedia design background (2D animation, graphic design, UI/UX), so I can help there too if a project needs it.
 
-[![Visit sven.dev](https://img.shields.io/badge/sven.dev-Visit%20my%20website-1a1a1a?style=for-the-badge)](https://sven.dev)
+[![Visit Sv3n.dev](https://img.shields.io/badge/Sv3n.dev-Visit%20my%20website-1a1a1a?style=for-the-badge)](https://sv3n.dev)
 
 ## 🚀 Featured project
 
@@ -14,28 +14,38 @@ Before landing on this stack I worked with Flutter/Dart, Python, Go, and C# (Uni
 
 ## 🛠️ Tools I actually reach for
 
-**Languages**
+### Languages
+
 ![Languages](https://skillicons.dev/icons?i=ts,js,rust,solidity,cs,dart,py)
 
-**Front-end**
+### Front-end
+
 ![Front-end](https://skillicons.dev/icons?i=html,css,bash,react,nextjs,astro,tailwind,vite,threejs,sass,bootstrap)
 
-**Back-end & Data**
+### Back-end & Data
+
 ![Back-end & Data](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma,supabase,firebase,graphql)
+
 <sub>also: Socket.io</sub>
 
-**Web3**
+### Web3
+
 ![Web3](https://skillicons.dev/icons?i=solidity,ipfs)
+
 <sub>also: Ethereum, Solana, Polygon, Web3.js, WalletConnect, Chainlink</sub>
 
-**Apps & Games**
+### Apps & Games
+
 ![Apps & Games](https://skillicons.dev/icons?i=flutter,unity,godot,electron,blender)
 
-**Design**
+### Design
+
 ![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)
+
 <sub>also: InDesign</sub>
 
-**Tools & Cloud**
+### Tools & Cloud
+
 ![Tools & Cloud](https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,aws,nginx,postman,vscode)
 
 ## 📊 Stats
