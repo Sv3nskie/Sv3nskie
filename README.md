@@ -16,8 +16,4 @@ Before landing on this stack I worked with Flutter/Dart, Python, Go, and C# (Uni
 
 ## 📊 Stats
 
-![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sv3nskie&show_icons=true&theme=jolly)
-
 ![Sven's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sv3nskie&theme=monokai-metallian&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv3nskie&layout=compact&theme=vision-friendly-dark)
