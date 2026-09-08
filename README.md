@@ -6,13 +6,37 @@ My main stack is **MERN** (MongoDB, Express, React, Node.js), along with **TypeS
 
 Before landing on this stack I worked with Flutter/Dart, Python, Go, and C# (Unity). I also come from a multimedia design background (2D animation, graphic design, UI/UX), so I can help there too if a project needs it.
 
+[![Visit sven.dev](https://img.shields.io/badge/sven.dev-Visit%20my%20website-1a1a1a?style=for-the-badge)](https://sven.dev)
+
 ## 🚀 Featured project
 
 **[DexMarketCap.app](https://dexmarketcap.app)** — a real-time DEX analytics platform (a DexScreener-style alternative), built with React, Node.js, MongoDB, and Web3/ethers.js, including a MongoDB aggregation pipeline for per-wallet P&L tracking.
 
-## 🛠️ Skills
+## 🛠️ Tools I actually reach for
 
-![Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nodejs,express,nextjs,vue,rust,solidity,electron,html,css,sass,tailwind,bootstrap,materialui,mongodb,mysql,postgresql,graphql,npm,yarn,webpack,babel,eslint,prettier,jest,vscode,git,github,docker,aws,azure,firebase,cloudflare,php,laravel,django,python,go,cs,unity,flutter,dart,figma,wordpress)
+**Languages**
+![Languages](https://skillicons.dev/icons?i=ts,js,rust,solidity,cs,dart,py)
+
+**Front-end**
+![Front-end](https://skillicons.dev/icons?i=html,css,bash,react,nextjs,astro,tailwind,vite,threejs,sass,bootstrap)
+
+**Back-end & Data**
+![Back-end & Data](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma,supabase,firebase,graphql)
+<sub>also: Socket.io</sub>
+
+**Web3**
+![Web3](https://skillicons.dev/icons?i=solidity,ipfs)
+<sub>also: Ethereum, Solana, Polygon, Web3.js, WalletConnect, Chainlink</sub>
+
+**Apps & Games**
+![Apps & Games](https://skillicons.dev/icons?i=flutter,unity,godot,electron,blender)
+
+**Design**
+![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)
+<sub>also: InDesign</sub>
+
+**Tools & Cloud**
+![Tools & Cloud](https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,aws,nginx,postman,vscode)
 
 ## 📊 Stats
 
